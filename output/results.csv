@@ -1,0 +1,15 @@
+Method,Attack,Parameter,PSNR,NCC,BER
+DCT,None,-,34.6749,1.0,0.0
+DCT,Wrong Secret Key,Key=9999,-,0.0728,0.4639
+DCT,JPEG Compression,Q=90,34.2301,1.0,0.0
+DCT,JPEG Compression,Q=50,27.6166,1.0,0.0
+DCT,JPEG Compression,Q=30,25.7393,1.0,0.0
+DCT,JPEG Compression,Q=10,22.5987,0.9783,0.0107
+DCT,Crop,10%,-,1.0,0.0
+DCT,Crop,25%,-,0.998,0.001
+DCT,Crop,40%,-,0.9824,0.0088
+LSB,None,-,88.566,1.0,0.0
+LSB,JPEG Compression,Q=90,43.7468,-0.0202,0.5254
+LSB,JPEG Compression,Q=50,28.6308,-0.0486,0.5352
+LSB,JPEG Compression,Q=30,26.3844,0.0513,0.5264
+LSB,JPEG Compression,Q=10,23.1035,-0.0069,0.4971
