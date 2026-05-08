@@ -86,7 +86,6 @@ Recommended repository structure:
 ├── original.jpg
 ├── logo.jpg
 ├── requirements.txt
-├── Final_Report_Topic9_Watermarking_DCT_WITH_WRONG_KEY.docx
 └── output/
     ├── results.csv
     ├── watermarked_dct.png
